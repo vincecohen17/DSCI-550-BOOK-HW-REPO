@@ -25,3 +25,13 @@ Class Homeworks:
         3. Practice selecting the best features for a classification model by analyzing class separability and measuring accuracy on training data.
         4. Learn to construct a decision tree from scratch by computing entropy and information gain at each node to determine the best splitting attribute.
         5. Gain experience interpreting how new training data points can cause inconsistencies in a hypothesis boundary and understanding the implications for model revision.
+3. Homework 3: Predictive Modeling and Association Rules
+    - Instructions in DSCI550-HW3.pdf
+    - Answers in Vince-Cohen-HW3.pdf
+    - Learning Objectives:
+        1. Define overfitting and identify techniques, such as cross-validation and regularization, to improve model generalization.
+        2. Apply Bayes’ Rule to calculate posterior probabilities for medical diagnoses and classification tasks.
+        3. Implement a Naïve Bayes Classifier to predict disease types based on symptom frequency and prior probabilities.
+        4. Perform Linear Regression analysis to model the relationship between shopping centers and retail sales, including the calculation of the slope and $r^2$.
+        5. Execute the Apriori Algorithm to identify frequent itemsets and evaluate the confidence of association rules.
+        6. Perform Hierarchical Clustering using Single Link and Complete Link distances and visualize the merge order via dendrograms.
